@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jack Moffatt
 ### Enterprise Technology Integration Student @ Penn State University (Class of 2028)
-**Aspiring Tech Consultant | AI & Web Development**
+**Incoming IBM Business Transformation Consultant Co-op (May 2027 – May 2028) | AI & Web Development**
 
 I sit at the intersection of enterprise business strategy and software development. Through my program at Penn State, I'm learning how to gather requirements, design business processes, and integrate systems — with hands-on experience applying AI tools to real client and startup work.
 
